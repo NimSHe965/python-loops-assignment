@@ -12,5 +12,4 @@ avg_temp = np.mean(temps_fahrenheit)
 
 # Round the average to 1 decimal place
 avg_temp = round(avg_temp, 1)
-
 print("Average Fahrenheit:", avg_temp)
